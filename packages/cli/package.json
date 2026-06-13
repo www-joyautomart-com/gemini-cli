@@ -59,7 +59,7 @@
     "prompts": "^2.4.2",
     "proper-lockfile": "^4.1.2",
     "react": "^19.2.0",
-    "shell-quote": "^1.8.3",
+    "shell-quote": "^1.8.4",
     "simple-git": "^3.28.0",
     "string-width": "^8.1.0",
     "strip-ansi": "^7.1.0",
@@ -67,7 +67,7 @@
     "tar": "^7.5.8",
     "tinygradient": "^1.1.5",
     "undici": "^7.10.0",
-    "ws": "^8.16.0",
+    "ws": "^8.20.1",
     "yargs": "^17.7.2",
     "zod": "^3.23.8"
   },
@@ -83,7 +83,7 @@
     "@types/yargs": "^17.0.32",
     "@xterm/headless": "^5.5.0",
     "typescript": "^5.3.3",
-    "vitest": "^3.1.1"
+    "vitest": "^4.1.8"
   },
   "engines": {
     "node": ">=20"
